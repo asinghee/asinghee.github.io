@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I work at the intersection of machine learning, IoT and industry solutions at IBM Research.
+You can find out more about me here:
+[http://researcher.ibm.com/researcher/view.php?person=in-asinghee]
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+and at other locations that show up in a web search.
